@@ -474,10 +474,16 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-110" value="重车进场申请&lt;br&gt;&lt;div&gt;审核结果&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2195" y="-55" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF8000;" edge="1" parent="1">
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF8000;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-75" target="UQtn89FxfLLLFJh2zS4Q-71">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2025" y="501" as="sourcePoint" />
             <mxPoint x="2025" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-114" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1830" y="100" as="sourcePoint" />
+            <mxPoint x="1930" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
