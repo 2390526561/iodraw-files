@@ -188,11 +188,17 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-3" value="智慧化客户系统" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=14;strokeColor=#9673a6;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="179" y="-286.25" width="863" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-4" target="UQtn89FxfLLLFJh2zS4Q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-4" value="车辆备案申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-230" width="96.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-7" value="物流信息平台" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="179" y="-100" width="861" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-10" value="车辆信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
