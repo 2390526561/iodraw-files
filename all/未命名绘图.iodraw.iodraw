@@ -306,8 +306,8 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-45" value="预配舱单申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="775.75" y="-248.12" width="96.5" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-47" value="简易录单" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1212.75" y="-45" width="96.5" height="37.5" as="geometry" />
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-47" value="简易录单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1195.75" y="-43.75" width="96.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-48" value="预配舱单信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="764" y="310" width="120" height="40" as="geometry" />
