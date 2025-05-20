@@ -252,7 +252,7 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-31" value="车辆进出申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="-230" width="96.5" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-32" value="&lt;b&gt;&lt;font color=&quot;#999999&quot;&gt;系统&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFD470;gradientColor=none;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-32" value="&lt;b&gt;&lt;font color=&quot;#999999&quot;&gt;航空货站作业管理系统&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFD470;gradientColor=none;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="179" y="-580" width="861" height="200" as="geometry" />
         </mxCell>
       </root>
