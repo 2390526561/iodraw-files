@@ -404,7 +404,7 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-88" value="&lt;b&gt;&lt;font color=&quot;#999999&quot;&gt;航空货站作业管理系统&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFD470;gradientColor=none;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2774.75" y="-110" width="332" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-90" target="UQtn89FxfLLLFJh2zS4Q-95">
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-117" target="UQtn89FxfLLLFJh2zS4Q-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-90" value="进场重车信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
@@ -492,8 +492,14 @@
             <mxPoint x="2810" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-90" target="UQtn89FxfLLLFJh2zS4Q-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2385" y="-15" as="sourcePoint" />
+            <mxPoint x="2385" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-117" value="&lt;b style=&quot;color: rgb(153, 153, 153); font-size: 14px;&quot;&gt;物流信息平台&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2295" y="85" width="60" height="30" as="geometry" />
+          <mxGeometry x="2295" y="85" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
