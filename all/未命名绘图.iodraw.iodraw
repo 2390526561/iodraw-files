@@ -13,7 +13,7 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-3" value="&lt;b&gt;&lt;font color=&quot;#999999&quot;&gt;智慧化客户系统&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=14;strokeColor=#9673a6;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="179" y="-286.25" width="863" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-7" value="物流信息平台" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-7" value="&lt;font color=&quot;#999999&quot;&gt;&lt;b&gt;物流信息平台&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="179" y="-100" width="861" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-61" value="Outside Networks" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
