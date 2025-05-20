@@ -186,10 +186,10 @@
           <mxGeometry x="230" y="220" width="96.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-3" value="智慧化客户系统" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=14;strokeColor=#9673a6;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="179" y="-290" width="863" height="260" as="geometry" />
+          <mxGeometry x="179" y="-290" width="863" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-4" value="车辆备案申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="-100" width="96.5" height="37.5" as="geometry" />
+          <mxGeometry x="240" y="-230" width="96.5" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
