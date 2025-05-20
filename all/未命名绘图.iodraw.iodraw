@@ -272,7 +272,7 @@
             <mxPoint x="1190" y="-390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-35" value="预抵港货物信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-35" value="预录入信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="-45" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-38" value="预录入信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
