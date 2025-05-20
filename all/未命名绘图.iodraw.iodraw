@@ -350,16 +350,6 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-65" value="&lt;b&gt;&lt;font color=&quot;#999999&quot;&gt;智慧化客户系统&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontSize=14;strokeColor=#9673a6;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1875.75" y="-440" width="863" height="293.75" as="geometry" />
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-69">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1960" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-68" value="提交申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UQtn89FxfLLLFJh2zS4Q-67">
-          <mxGeometry x="-0.0936" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-69" value="车辆备案管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1936.75" y="-256.87" width="96.5" height="37.5" as="geometry" />
         </mxCell>
