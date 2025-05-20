@@ -355,6 +355,11 @@
             <mxPoint x="1961.0769230769229" y="89.99999999999977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-122" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UQtn89FxfLLLFJh2zS4Q-121">
+          <mxGeometry x="-0.188" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-69" value="车辆备案管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1936.75" y="-256.87" width="96.5" height="37.5" as="geometry" />
         </mxCell>
