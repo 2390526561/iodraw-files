@@ -249,8 +249,8 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-25" value="车辆备案&lt;div&gt;审核结果&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-45" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-31" value="车辆备案管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-220" width="96.5" height="37.5" as="geometry" />
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-31" value="重车进场申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-230" width="96.5" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
