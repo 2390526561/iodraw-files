@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-13" value="海关作业辅助系统（海关端）" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-13" value="&lt;font color=&quot;#999999&quot;&gt;&lt;b&gt;海关作业辅助系统（海关端）&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="173.25" y="420" width="866.75" height="200" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-15" value="&lt;font color=&quot;#999999&quot;&gt;&lt;b&gt;海关作业辅助系统（企业端）&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
