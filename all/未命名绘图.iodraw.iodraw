@@ -273,7 +273,7 @@
           <mxGeometry x="650" y="-45" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-38" value="预录入信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-64.5" y="-45" width="120" height="40" as="geometry" />
+          <mxGeometry x="-64.5" y="-5" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
