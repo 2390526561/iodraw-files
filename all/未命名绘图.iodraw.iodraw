@@ -212,6 +212,9 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-16" value="车辆备案申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="312.5" width="96.5" height="37.5" as="geometry" />
         </mxCell>
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-17" target="UQtn89FxfLLLFJh2zS4Q-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-17" value="车辆信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="228.25" y="310" width="120" height="40" as="geometry" />
         </mxCell>
