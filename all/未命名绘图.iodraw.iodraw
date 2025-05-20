@@ -290,7 +290,7 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-45" value="预配舱单申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="661.75" y="-248.12" width="96.5" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-47" value="预配舱单申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-47" value="简易录单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="-43.75" width="96.5" height="37.5" as="geometry" />
         </mxCell>
       </root>
