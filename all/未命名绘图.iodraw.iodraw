@@ -218,8 +218,8 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-17" value="车辆信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="228.25" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-21" value="接收备案信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="530" width="96.5" height="37.5" as="geometry" />
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-21" value="审核备案信息并反馈结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="96.5" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
