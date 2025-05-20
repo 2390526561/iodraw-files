@@ -209,6 +209,9 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-10" value="车辆信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="228.25" y="-45" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-16" target="UQtn89FxfLLLFJh2zS4Q-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-16" value="接收备案信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="520" width="96.5" height="37.5" as="geometry" />
         </mxCell>
@@ -220,6 +223,9 @@
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-21" value="审核备案信息并反馈结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="520" width="96.5" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-23" value="车辆信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
