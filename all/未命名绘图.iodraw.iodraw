@@ -252,7 +252,7 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-31" target="UQtn89FxfLLLFJh2zS4Q-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-31" target="UQtn89FxfLLLFJh2zS4Q-35">
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-45" target="UQtn89FxfLLLFJh2zS4Q-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-31" value="车辆进场申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -282,6 +282,9 @@
           <mxGeometry x="513.75" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-43" target="UQtn89FxfLLLFJh2zS4Q-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-43" target="UQtn89FxfLLLFJh2zS4Q-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-43" value="预约交运" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
