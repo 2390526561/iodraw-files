@@ -275,6 +275,9 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-38" value="预录入信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1177" y="-248.12" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-41" value="进场重车信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="523.75" y="-35" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
