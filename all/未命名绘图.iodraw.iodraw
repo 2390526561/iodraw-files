@@ -194,8 +194,8 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-7" value="物流信息平台" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="179" y="-100" width="861" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-8" value="备案信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-43.75" width="96.5" height="37.5" as="geometry" />
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-9" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="-50" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
