@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="4640" dy="3987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1547" dy="2155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -382,28 +382,13 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-75" value="车辆信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1925" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-77" target="UQtn89FxfLLLFJh2zS4Q-79">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2106.75" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-77" value="审核备案信息并反馈结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2058.5" y="510" width="96.5" height="37.5" as="geometry" />
-        </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-79" target="UQtn89FxfLLLFJh2zS4Q-82">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-79" value="车辆备案&lt;div&gt;审核结果&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2046.75" y="300" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-82" target="UQtn89FxfLLLFJh2zS4Q-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-81" value="展示结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UQtn89FxfLLLFJh2zS4Q-80">
-          <mxGeometry x="-0.3469" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-82" value="车辆备案&lt;div&gt;审核结果&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2046.75" y="-55" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-87" target="UQtn89FxfLLLFJh2zS4Q-90">
           <mxGeometry relative="1" as="geometry" />
