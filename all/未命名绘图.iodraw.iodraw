@@ -264,6 +264,9 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-33" value="进场重车信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="513.75" y="-45" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-35" target="UQtn89FxfLLLFJh2zS4Q-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-35" value="预抵港货物信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="-45" width="120" height="40" as="geometry" />
         </mxCell>
