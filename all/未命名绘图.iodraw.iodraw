@@ -492,7 +492,7 @@
             <mxPoint x="2810" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-117" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-117" value="&lt;b style=&quot;color: rgb(153, 153, 153); font-size: 14px;&quot;&gt;物流信息平台&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2295" y="85" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
