@@ -370,11 +370,11 @@
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-71" value="车辆信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1925" y="-55" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-73" target="UQtn89FxfLLLFJh2zS4Q-75">
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF8000;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-73" target="UQtn89FxfLLLFJh2zS4Q-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-73" value="接收备案信息&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;审核反馈结果&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="510" width="120" height="37.5" as="geometry" />
+          <mxGeometry x="1925" y="491.25" width="120" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UQtn89FxfLLLFJh2zS4Q-75" target="UQtn89FxfLLLFJh2zS4Q-73">
           <mxGeometry relative="1" as="geometry" />
