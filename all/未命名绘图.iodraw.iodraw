@@ -192,7 +192,7 @@
           <mxGeometry x="240" y="-230" width="96.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-7" value="Citrix XenApp Server Farm&lt;div&gt;with firewalls&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="609" y="108" width="280" height="1010" as="geometry" />
+          <mxGeometry x="179" y="-100" width="861" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
