@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="892" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -355,7 +355,7 @@
             <mxPoint x="1961.0769230769229" y="89.99999999999977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UQtn89FxfLLLFJh2zS4Q-122" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UQtn89FxfLLLFJh2zS4Q-121">
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-122" value="提交申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UQtn89FxfLLLFJh2zS4Q-121">
           <mxGeometry x="-0.188" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -478,6 +478,17 @@
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-117" value="&lt;b style=&quot;color: rgb(153, 153, 153); font-size: 14px;&quot;&gt;物流信息平台&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2295" y="85" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1971.0769230769229" y="99.99999999999977" as="targetPoint" />
+            <mxPoint x="1971" y="-209" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UQtn89FxfLLLFJh2zS4Q-124" value="提交申请" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UQtn89FxfLLLFJh2zS4Q-123">
+          <mxGeometry x="-0.188" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
