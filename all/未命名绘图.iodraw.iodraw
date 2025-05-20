@@ -189,7 +189,7 @@
           <mxGeometry x="1432" y="1947" width="107" height="101" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-62" value="Citrix Network Architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="510" y="-410" width="861" height="40" as="geometry" />
+          <mxGeometry x="320" y="-1080" width="861" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-1" value="车辆备案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="253" y="1112" width="96.5" height="37.5" as="geometry" />
@@ -253,7 +253,7 @@
           <mxGeometry x="500" y="-230" width="96.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-32" value="Enterprise Networks" style="whiteSpace=wrap;html=1;fillColor=#FFD470;gradientColor=none;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="179" y="-990" width="308" height="680" as="geometry" />
+          <mxGeometry x="179" y="-510" width="851" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
