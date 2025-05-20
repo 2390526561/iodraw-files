@@ -259,7 +259,7 @@
           <mxGeometry x="525.5" y="-246.87" width="96.5" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-32" value="&lt;b&gt;&lt;font color=&quot;#999999&quot;&gt;航空货站作业管理系统&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFD470;gradientColor=none;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="176.13" y="-530" width="861" height="180" as="geometry" />
+          <mxGeometry x="1078" y="-320" width="861" height="180" as="geometry" />
         </mxCell>
         <mxCell id="UQtn89FxfLLLFJh2zS4Q-33" value="进场重车信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="513.75" y="-45" width="120" height="40" as="geometry" />
